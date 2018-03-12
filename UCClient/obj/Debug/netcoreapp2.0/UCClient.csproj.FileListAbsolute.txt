@@ -1,0 +1,11 @@
+C:\Users\avoev\source\repos\UCClient\UCClient\obj\Debug\netcoreapp2.0\UCClient.csprojResolveAssemblyReference.cache
+C:\Users\avoev\source\repos\UCClient\UCClient\obj\Debug\netcoreapp2.0\UCClient.csproj.CoreCompileInputs.cache
+C:\Users\avoev\source\repos\UCClient\UCClient\obj\Debug\netcoreapp2.0\UCClient.AssemblyInfoInputs.cache
+C:\Users\avoev\source\repos\UCClient\UCClient\obj\Debug\netcoreapp2.0\UCClient.AssemblyInfo.cs
+C:\Users\avoev\source\repos\UCClient\UCClient\bin\Debug\netcoreapp2.0\UCClient.deps.json
+C:\Users\avoev\source\repos\UCClient\UCClient\bin\Debug\netcoreapp2.0\UCClient.runtimeconfig.json
+C:\Users\avoev\source\repos\UCClient\UCClient\bin\Debug\netcoreapp2.0\UCClient.runtimeconfig.dev.json
+C:\Users\avoev\source\repos\UCClient\UCClient\bin\Debug\netcoreapp2.0\UCClient.dll
+C:\Users\avoev\source\repos\UCClient\UCClient\bin\Debug\netcoreapp2.0\UCClient.pdb
+C:\Users\avoev\source\repos\UCClient\UCClient\obj\Debug\netcoreapp2.0\UCClient.dll
+C:\Users\avoev\source\repos\UCClient\UCClient\obj\Debug\netcoreapp2.0\UCClient.pdb
